@@ -21,3 +21,6 @@
 - eDPI: 616.
 - Windows Sensitivity: 6/11.
 - Raw Input: 1.
+- Polling Rate: 1000Hz.
+- Mouse Acceleration: Off.
+- cm/360°: 67.47cm.
