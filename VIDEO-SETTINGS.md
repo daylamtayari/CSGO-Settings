@@ -23,8 +23,8 @@
 
 ## Game Settings:
 
-- Resolution: 1280x960.
-- Aspect Ratio: 4:3.
+- Resolution: 1280x960 (Stretched).
+- Aspect Ratio: 4:3 (Stretched).
 - Brightness: 1.6.
 - Display Mode: Full screen.
 
