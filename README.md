@@ -1,6 +1,8 @@
 # CS:GO Settings:
 
-This repository contains all of my setup, CS:GO settings and configs.
+This repository contains all of my setup, CS:GO settings and configs (including my autoexec).  
+  
+Feel free to use and adapt any of these config files (as long as you are abiding by the terms of the GPL v3.0 license) to your liking for your use.
 
 ## Index:
 
